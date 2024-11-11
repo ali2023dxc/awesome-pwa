@@ -69,6 +69,8 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Dev.Opera](https://dev.opera.com/): Dev.Opera
 * [DevDocs](https://devdocs.io/): API Documentation Browser
 * [Digikala](https://www.digikala.com/): Digikala Web App
+* [Entekhabclick](https://entekhabclick.com/): Entekhabclick Web App
+* [Hajigame](https://hajigame.ir/): Haji Game Web App
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
 * [DoHabit](https://inikann.github.io/DoHabit/): Straightforward habit tracker.
 * [DontBore](https://dontbo.re/): Find and share logins.
